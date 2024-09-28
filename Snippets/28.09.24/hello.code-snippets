@@ -1,0 +1,10 @@
+{
+	"hello": {
+	  "prefix": "hel",
+	  "body": [
+		"Hello, ${1:this} is a ${2:snippet}."
+	  ],
+	  "description": "write hello"
+	}
+  }
+  
